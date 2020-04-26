@@ -1,12 +1,17 @@
 <a href="https://github.com/r3-it/testproject"><img src="./Mini-Robot.png" title="Robot" alt="Robot Logo"></a>
 
----
-
 # R3_IT - testproject
 
 > R3 / Joni Turunen
 
 This repo is for testing a Sharepoint GitHub webpart features (part of school project).
+
+---
+
+## Changes
+
+- Added drawio-image to Git repository
+- Added .gitignore for .vscode/
 
 ## Why?
 
